@@ -16,8 +16,11 @@ We suppose that each node of the network is powered by a non-rechargeable batter
 The file configs/mida-assembly-config.txt contains the configuration parameters for the simulation. The main parameters are:
 
 NETWORK_SIZE: The number of nodes in the network
+
 SERVICES_PER_NODE: The number of services hosted by each node
+
 TYPES: Number of types of services
+
 STRATEGY: The selection criteria that the nodes adopt. We implemented multiple strategies:
   1) random 
   2) weighted random
