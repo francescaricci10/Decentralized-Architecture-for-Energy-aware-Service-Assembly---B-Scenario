@@ -1,6 +1,7 @@
 # Decentralized-Architecture-for-Energy-aware-Service-Assembly---B-Scenario
 This repository contains the simulation code that implements a decentralized architecture to manage an energy-aware service assembly.
 This project extends the project predented in https://github.com/mi-da/Energy-Aware-Service-Assembly-Journal.
+
 We suppose that each node of the network is powered by a non-rechargeable battery.
 
 ## **Instructions**
